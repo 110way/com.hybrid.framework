@@ -1,0 +1,39 @@
+2024-09-07 20:35:28 INFO  VerifyRegistretionByUsingExcel:59 - before launching of browser
+2024-09-07 20:35:32 INFO  VerifyRegistretionByUsingExcel:67 - after launching of browser
+2024-09-07 20:35:35 INFO  VerifyRegistretionByUsingExcel:88 - After registration
+2024-09-07 20:35:52 INFO  VerifyLogin:64 - before launching url
+2024-09-07 20:35:55 INFO  VerifyLogin:68 - after launching url
+2024-09-07 20:35:56 INFO  VerifyLogin:98 - after submit
+2024-09-08 12:55:04 INFO  VerifyRegistretionByUsingExcel:59 - before launching of browser
+2024-09-08 12:55:12 INFO  VerifyRegistretionByUsingExcel:67 - after launching of browser
+2024-09-08 12:55:15 INFO  VerifyRegistretionByUsingExcel:88 - After registration
+2024-09-08 13:06:34 INFO  VerifyRegistretionByUsingExcel:59 - before launching of browser
+2024-09-08 13:06:38 INFO  VerifyRegistretionByUsingExcel:67 - after launching of browser
+2024-09-08 13:06:41 INFO  VerifyRegistretionByUsingExcel:88 - After registration
+2024-09-08 13:24:47 INFO  VerifyRegistretionByUsingExcel:59 - before launching of browser
+2024-09-08 13:24:52 INFO  VerifyRegistretionByUsingExcel:67 - after launching of browser
+2024-09-08 13:24:55 INFO  VerifyRegistretionByUsingExcel:88 - After registration
+2024-09-10 20:47:06 INFO  VerifyRegistretionByUsingExcel:59 - before launching of browser
+2024-09-10 20:47:12 INFO  VerifyRegistretionByUsingExcel:67 - after launching of browser
+2024-09-10 20:47:15 INFO  VerifyRegistretionByUsingExcel:88 - After registration
+2024-09-10 20:59:24 INFO  VerifyRegistretionByUsingExcel:64 - before launching of browser
+2024-09-10 20:59:31 INFO  VerifyRegistretionByUsingExcel:72 - after launching of browser
+2024-09-10 21:08:38 INFO  VerifyRegistretionByUsingExcel:64 - before launching of browser
+2024-09-10 21:08:45 INFO  VerifyRegistretionByUsingExcel:72 - after launching of browser
+2024-09-10 21:11:27 INFO  VerifyRegistretionByUsingExcel:64 - before launching of browser
+2024-09-10 21:11:32 INFO  VerifyRegistretionByUsingExcel:72 - after launching of browser
+2024-09-10 21:12:03 INFO  VerifyRegistretionByUsingExcel:64 - before launching of browser
+2024-09-10 21:12:09 INFO  VerifyRegistretionByUsingExcel:72 - after launching of browser
+2024-09-11 19:49:55 INFO  VerifyRegistretionByUsingExcel:64 - before launching of browser
+2024-09-11 19:50:05 INFO  VerifyRegistretionByUsingExcel:72 - after launching of browser
+2024-09-11 19:50:25 INFO  VerifyRegistretionByUsingExcel:64 - before launching of browser
+2024-09-11 19:50:32 INFO  VerifyRegistretionByUsingExcel:72 - after launching of browser
+2024-09-11 19:50:35 INFO  VerifyRegistretionByUsingExcel:93 - After registration
+2024-09-11 19:50:58 INFO  VerifyRegistretionByUsingExcel:64 - before launching of browser
+2024-09-11 19:51:07 INFO  VerifyRegistretionByUsingExcel:64 - before launching of browser
+2024-09-11 21:57:18 INFO  VerifyRegistretionByUsingExcel:64 - before launching of browser
+2024-09-11 21:57:36 INFO  VerifyRegistretionByUsingExcel:72 - after launching of browser
+2024-09-11 21:57:39 INFO  VerifyRegistretionByUsingExcel:93 - After registration
+2024-09-11 21:58:27 INFO  VerifyRegistretionByUsingExcel:64 - before launching of browser
+2024-09-11 21:58:36 INFO  VerifyRegistretionByUsingExcel:72 - after launching of browser
+2024-09-11 21:58:42 INFO  VerifyRegistretionByUsingExcel:93 - After registration
