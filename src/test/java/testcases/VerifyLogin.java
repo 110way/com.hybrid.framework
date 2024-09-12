@@ -75,7 +75,7 @@ public class VerifyLogin {
 	public void verifyLogin() throws InterruptedException {
 		
 		
-		// we have initialized driver for this page object
+		// we have initialized driver for this page object this is code
 		homePage = new HomePage(driver);
 		
 		test1.info("before filling username");
