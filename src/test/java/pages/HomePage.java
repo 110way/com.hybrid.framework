@@ -15,7 +15,7 @@ public class HomePage {
 	}
 	
 	
-	//we have parameterized the input of user name
+	//we have parameterized the input of user name w4tw4tw4twtw4t
 	
 	// in page class we are storing all locators for web elements
 	public void setUserName(String userName) {
